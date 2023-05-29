@@ -1,0 +1,336 @@
+Uri: https://panteon.artem.monster/
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\index.htm
+Content Type: text/html
+
+Uri: https://panteon.artem.monster/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://panteon.artem.monster/css/style.min.css?_v=20221008113840
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\css\style.min.css
+Content Type: text/css
+
+Uri: https://panteon.artem.monster/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://panteon.artem.monster/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://panteon.artem.monster/fonts/Montserrat-Bold.woff
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\fonts\Montserrat-Bold.woff
+Content Type: font/woff
+
+Uri: https://panteon.artem.monster/fonts/Montserrat-Bold.woff2
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\fonts\Montserrat-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://panteon.artem.monster/fonts/Montserrat-Medium.woff
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\fonts\Montserrat-Medium.woff
+Content Type: font/woff
+
+Uri: https://panteon.artem.monster/fonts/Montserrat-Medium.woff2
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\fonts\Montserrat-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://panteon.artem.monster/fonts/Montserrat-Regular.woff
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\fonts\Montserrat-Regular.woff
+Content Type: font/woff
+
+Uri: https://panteon.artem.monster/fonts/Montserrat-Regular.woff2
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\fonts\Montserrat-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://panteon.artem.monster/fonts/Montserrat-SemiBold.woff
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\fonts\Montserrat-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://panteon.artem.monster/fonts/Montserrat-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\fonts\Montserrat-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://panteon.artem.monster/img/fullscreen/bg.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\fullscreen\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/fullscreen/bg.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\fullscreen\bg.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/icons/arrow-left.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\icons\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/img/icons/arrow-oange-slide.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\icons\arrow-oange-slide.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/img/icons/benefits/dumbbell-2.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\icons\benefits\dumbbell-2.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/img/icons/benefits/location-3.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\icons\benefits\location-3.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/img/icons/benefits/stationary-bike-1.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\icons\benefits\stationary-bike-1.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/img/icons/benefits/wallet-4.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\icons\benefits\wallet-4.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/img/icons/call.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\icons\call.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/img/icons/clock.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\icons\clock.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/img/icons/decor/arrow-bottom.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\icons\decor\arrow-bottom.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/img/icons/gym-time.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\icons\gym-time.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/img/icons/location.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\icons\location.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/img/icons/logo.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\icons\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/img/life-style/life-style-1.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\life-style\life-style-1.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/life-style/life-style-1.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\life-style\life-style-1.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/life-style/life-style-5.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\life-style\life-style-5.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/life-style/life-style-5.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\life-style\life-style-5.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/map/map-bg.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\map\map-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/map/map-bg.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\map\map-bg.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/questions/bg.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\questions\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/questions/bg.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\questions\bg.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-1.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-1.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-1.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-10.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-10.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-10.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-10.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-2.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-2.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-2.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-3.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-3.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-3.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-4.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-4.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-4.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-4.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-5.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-5.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-5.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-5.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-6.jpeg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-6.jpeg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-6.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-6.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-7.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-7.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-7.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-7.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-8.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-8.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-8.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-8.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-9.jpeg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-9.jpeg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-9.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-9.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-1.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-1.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-1.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-1.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-2.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-2.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-2.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-2.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-3.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-3.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-3.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-3.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-4.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-4.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-4.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-4.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-5.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-5.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-5.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-5.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-6.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-6.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-6.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-6.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-7.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-7.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-7.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-7.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-8.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-8.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-8.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-8.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-9.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-9.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/slider-block/image-bottom-9.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\slider-block\image-bottom-9.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/trainers/1.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\trainers\1.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/trainers/1.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\trainers\1.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/trainers/2.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\trainers\2.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/trainers/2.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\trainers\2.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/trainers/3.jpg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\trainers\3.jpg
+Content Type: image/jpeg
+
+Uri: https://panteon.artem.monster/img/trainers/3.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\trainers\3.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/trainers/4.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\trainers\4.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/img/trainers/5.webp
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\img\trainers\5.webp
+Content Type: image/webp
+
+Uri: https://panteon.artem.monster/js/app.min.js?_v=20221008113840
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\js\app.min.js
+Content Type: application/javascript
+
+Uri: https://panteon.artem.monster/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://panteon.artem.monster/site.webmanifest
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\site.webmanifest
+Content Type: 
+
