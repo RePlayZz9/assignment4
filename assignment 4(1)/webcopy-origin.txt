@@ -1,5 +1,5 @@
 Uri: https://panteon.artem.monster/
-File Name: C:\Downloaded Web Sites\panteon.artem.monster\index.htm
+File Name: C:\Downloaded Web Sites\panteon.artem.monster\index.html
 Content Type: text/html
 
 Uri: https://panteon.artem.monster/apple-touch-icon.png
