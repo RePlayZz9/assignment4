@@ -64,4 +64,9 @@ $(document).ready(function() {
   });
   
   $('#submitBtn').css('background-color', '#cf7e21');
+
   $('#submitBtn').text('Confirm');
+
+  $('img').click(function() {
+      window.location.href = 'index.html';
+    });
