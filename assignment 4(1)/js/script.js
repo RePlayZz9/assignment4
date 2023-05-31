@@ -70,3 +70,15 @@ $(document).ready(function() {
   $('img').click(function() {
       window.location.href = 'index.html';
     });
+
+    document.querySelector('h1').addEventListener("mouseover",function() {
+        document.querySelector('h1').style.backgroundColor = '#cf7e21';
+        document.querySelector('h1').style.borderRadius = '8px';
+      });
+    
+      document.querySelector('h1').addEventListener("mouseout",function() {
+        document.querySelector('h1').style.backgroundColor = '';
+        document.querySelector('h1').style.borderRadius = '';
+      });
+
+
