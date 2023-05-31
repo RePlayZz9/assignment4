@@ -81,4 +81,11 @@ $(document).ready(function() {
         document.querySelector('h1').style.borderRadius = '';
       });
 
+    var inputElements = document.querySelectorAll("input");
+      inputElements.forEach(function(inputElement) {
+        inputElement.addEventListener("keypress", function(event) {
+          console.log(event.key);
+        });
+      });
+      
 
