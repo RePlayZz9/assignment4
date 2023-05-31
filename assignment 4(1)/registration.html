@@ -1,33 +1,69 @@
+<!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="format-detection" content="telephone=no">
-        <link rel="stylesheet" href="css/registration.css">
-        <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-        <link rel="manifest" href="site.webmanifest">
-        <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
-        <meta name="msapplication-TileColor" content="#444e5d">
-        <meta name="theme-color" content="#344348">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-    <body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="stylesheet" href="css/registration.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#444e5d">
+    <meta name="theme-color" content="#344348">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body  style="background-image: url('img/fullscreen/bg.jpg');">
         <header class="header">
             <div class="header__logo">
-                <a href="index.htm"><img src="img/icons/logo.svg" alt="Logo" /></a>
+                <a href="index.html"><img src="img/icons/logo.svg" alt="Logo"></a>
             </div>
         </header>
+        <div class="container">
         <div class="reg">
-        <h1>
-            Регистрация
-        </h1>
-        <form action="">
-            <input type="email" placeholder="Ваша почта">
-            <input type="tel" placeholder="Ваш телефон">
-            <input type="text" placeholder="Ваше имя">
-            <button class="btn btn-dark">Подтвердить</button>
-        </form>
+            <h1>Registration</h1>
+            <div class="inputReg">
+                <div class="emailInput">
+                    <h3>Email</h3>
+                    <input type="email" name="email" id="emailInput" placeholder="" width="40%">
+                </div>
+                <div class="nameInput">
+                    <h3>Name</h3>
+                    <input type="text" name="" id="nameId" required>
+                </div>
+                <div class="surnameInput">
+                    <h3>Surname</h3>
+                    <input type="text" name="" id="surnameId" required>
+                </div>
+                <div id="phoneNum">
+                    <h3>Phone</h3>
+                    <input placeholder="+7 *** *** ** **" type="text" name="" id="phoneInp" required> 
+                </div>
+                <div class="birthInput">
+                    <p>Date of Birth</p>
+                    <input type="date" name="" id="birthInp">
+                </div>
+                <div class="goalInput">
+                    <h3>What is your goal to go to the gym?</h3> <h6>(optional)</h6>
+                    <label for="lwChackbox">
+                        <input type="radio" name="radio" id="lwChackbox">
+                        <span>Lose weight</span>
+                    </label>
+                    <label for="qwChackbox">
+                        <input type="radio" name="radio" id="qwChackbox">
+                        <span>Gain weight</span>
+                    </label>
+                    <label for="mrsChackbox">
+                        <input type="radio" name="radio" id="mrsChackbox">
+                        <span>Keep the body in good shape</span>
+                    </label>
+                </div>
+            </div>
+            <button id="submitBtn">Confirm</button>
         </div>
-    </body>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
 </html>
