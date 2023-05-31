@@ -1,12 +1,89 @@
-body{
-    background-color: #0C1417;
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: black;
+
+}
+
+.container {
+    background-image: url('img/fullscreen/bg.jpg');
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .reg{
     display: flex;
     flex-direction: column;
     align-items: center;
     color: white;
+
 }
+
+.inputReg input[type="email"],
+.inputReg input[type="text"],
+.inputReg input[type="date"],
+.inputReg input[type="radio"] {
+    display: block;
+    width: 140%;
+    padding: 10px;
+    border: 3px solid #f7931e;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.inputReg input[type="date"] {
+    width: 50%; 
+}
+.goalInput label {
+    display: inline-block;
+    margin-right: 10px; 
+}
+button, input, textarea {
+    font-family: Montserrat;
+    font-size:inherit
+}
+
+.inputReg input[type="radio"] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    outline: none;
+    cursor: pointer;
+}
+
+
+.inputReg input[type="radio"]:checked {
+    background-color: #cf7e21;
+    border-color: white;
+}
+
+
+.inputReg label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.inputReg label span {
+    margin-bottom: 10px ;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+
 form{
     display: flex;
     flex-direction: column;
@@ -23,10 +100,10 @@ input{
     padding-right: 50px;
 }
 button{
-    border-radius: 5px;
-    background-color: orange;
+    border-radius: 19px;
     height: 40px;
-    width: 200px;
+    width: 250px;
     font-size: large;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
 }
