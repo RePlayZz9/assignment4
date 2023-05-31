@@ -88,4 +88,6 @@ $(document).ready(function() {
         });
       });
       
-
+document.querySelector("h6").addEventListener("click", function(){
+    document.querySelector("h6").style.opacity="0.2";
+});
